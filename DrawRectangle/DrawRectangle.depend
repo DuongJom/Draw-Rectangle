@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638179301 source:c:\users\asus\desktop\c_plusplus_project\drawrectangle\main.cpp
+	<stdio.h>
+	<windows.h>
+
